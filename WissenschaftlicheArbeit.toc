@@ -1,0 +1,6 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {german}{}
+\defcounter {refsection}{0}\relax 
+\vspace {-10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}

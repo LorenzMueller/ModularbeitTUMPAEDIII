@@ -1,0 +1,1375 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.7.15)  3 DEC 2018 15:19
+entering extended mode
+**./WissenschaftlicheArbeit.tex
+(WissenschaftlicheArbeit.tex
+LaTeX2e <2018-04-01> patch level 5
+(Ressourcen/Praeambel.tex
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2017/09/07 v3.24 KOMA-Script document class (book)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2017/09/07 v3.24 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 137.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 138.
+Package tocbasic Info: defining new hook before heading of `' on input line 162
+3.
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2296.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (11pt
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1686.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@chapter@maxnumwidth=\skip48
+\scr@dte@section@maxnumwidth=\skip49
+\scr@dte@subsection@maxnumwidth=\skip50
+\scr@dte@subsubsection@maxnumwidth=\skip51
+\scr@dte@paragraph@maxnumwidth=\skip52
+\scr@dte@subparagraph@maxnumwidth=\skip53
+LaTeX Info: Redefining \textsubscript on input line 4966.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box27
+\c@figure=\count88
+\c@table=\count89
+Class scrbook Info: Redefining `\numberline' on input line 6142.
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2017/09/07 v3.24 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2017/09/07 v3.24 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 109.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 199
+7.
+)
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1247.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/home/lorenz/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2018/06/05 3.22 The Babel package
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/lorenz/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/babel-german/german.ldf
+Language: german 2018/03/29 v2.10 German support for babel (pre-1996 orthograph
+y)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/babel-german/germanb.ldf
+Language: germanb 2018/03/29 v2.10 German support for babel (pre-1996 orthograp
+hy)
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count91
+)
+Package babel Info: Making " an active character on input line 135.
+)))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen106
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count94
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/00miktex/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count95
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen107
+\Fld@menulength=\count96
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen110
+\calc@Bdimen=\dimen111
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count104
+\calc@Cskip=\skip59
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen112
+\ar@mcellbox=\box28
+\extrarowheight=\dimen113
+\NC@list=\toks17
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box29
+)
+\TX@col@width=\dimen114
+\TX@old@table=\dimen115
+\TX@old@col=\dimen116
+\TX@target=\dimen117
+\TX@delta=\dimen118
+\TX@cols=\count105
+\TX@ftn=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count106
+Package caption Info: hyperref package is loaded.
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2018/06/01 v4.40 (NLCT)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/lorenz/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count107
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count108
+)
+\@glsmfirst=\toks21
+\@glsmrest=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2018/04/16 v2.30 (NLCT)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen126
+))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count109
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count110
+\leftroot@=\count111
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count112
+\DOTSCASE@=\count113
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
+\dotsspace@=\muskip11
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks24
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks25
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks26
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count121
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2018/04/16 v2.30 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count122
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count123
+\FP@xia=\count124
+\FP@xib=\count125
+\FP@xfa=\count126
+\FP@xfb=\count127
+\FP@rega=\count128
+\FP@regb=\count129
+\FP@regs=\count130
+\FP@times=\count131
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks28
+\@dtl@tmpcount=\count133
+\dtl@tmplength=\skip65
+\dtl@sortresult=\count134
+\@dtl@numgrpsepcount=\count135
+\@dtl@datatype=\count136
+\dtl@codeA=\count137
+\dtl@codeB=\count138
+\@dtl@foreach@level=\count139
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/base/glossaries-compa
+tible-307.sty
+Package: glossaries-compatible-307 2018/06/01 v4.40 (NLCT)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/tracklang/tracklang.tex))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries-german/glossaries-ger
+man.ldf
+File: glossaries-german.ldf 2014/11/23 v1.0
+)
+\gls@level=\count140
+\@gls@tmpb=\toks29
+\gls@tmplen=\skip66
+\glskeylisttok=\toks30
+\glslabeltok=\toks31
+\glsshorttok=\toks32
+\glslongtok=\toks33
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/styles/glossary-hyper
+nav.sty
+Package: glossary-hypernav 2018/06/01 v4.40 (NLCT)
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/styles/glossary-list.
+sty
+Package: glossary-list 2018/06/01 v4.40 (NLCT)
+\glslistdottedwidth=\skip67
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/styles/glossary-long.
+sty
+Package: glossary-long 2018/06/01 v4.40 (NLCT)
+ (/home/lorenz/.miktex/texmfs/install/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count141
+\LTcapwidth=\dimen135
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count142
+\LT@rows=\count143
+\c@LT@tables=\count144
+\c@LT@chunks=\count145
+\LT@p@ftn=\toks34
+)
+Class scrbook Info: longtable captions redefined on input line 43.
+\glsdescwidth=\skip72
+\glspagelistwidth=\skip73
+)
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/styles/glossary-super
+.sty
+Package: glossary-super 2018/06/01 v4.40 (NLCT)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count146
+\ST@wd=\dimen136
+\ST@rightskip=\skip74
+\ST@leftskip=\skip75
+\ST@parfillskip=\skip76
+\ST@pageleft=\dimen137
+\ST@headht=\dimen138
+\ST@tailht=\dimen139
+\ST@pagesofar=\dimen140
+\ST@pboxht=\dimen141
+\ST@lineht=\dimen142
+\ST@stretchht=\dimen143
+\ST@prevht=\dimen144
+\ST@toadd=\dimen145
+\ST@dimen=\dimen146
+\ST@pbox=\box36
+))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/glossaries/styles/glossary-tree.
+sty
+Package: glossary-tree 2018/06/01 v4.40 (NLCT)
+\glstreeindent=\skip77
+))) (Ressourcen/Anfang.tex
+(/home/lorenz/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count147
+\Gm@cntv=\count148
+\c@Gm@tempcnt=\count149
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks35
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+
+Class scrbook Warning: Change of `\@footnotemark' detected!
+(scrbook)              Use of `footnotes=multiple' may break
+(scrbook)              another package!
+(scrbook)              Maybe you should remove the usage of
+(scrbook)              option `footnotes=multiple' on input line 41.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+\csq@reset=\count150
+\csq@gtype=\count151
+\csq@glevel=\count152
+\csq@qlevel=\count153
+\csq@maxlvl=\count154
+\csq@tshold=\count155
+\csq@ltx@everypar=\toks36
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count156
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/home/lorenz/.miktex/texmfs/install/tex/latex/xstring/xstring.sty
+(/home/lorenz/.miktex/texmfs/install/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count157
+\decimalpart=\count158
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count159
+\c@listtotal=\count160
+\c@listcount=\count161
+\c@liststart=\count162
+\c@liststop=\count163
+\c@citecount=\count164
+\c@citetotal=\count165
+\c@multicitecount=\count166
+\c@multicitetotal=\count167
+\c@instcount=\count168
+\c@maxnames=\count169
+\c@minnames=\count170
+\c@maxitems=\count171
+\c@minitems=\count172
+\c@citecounter=\count173
+\c@savedcitecounter=\count174
+\c@uniquelist=\count175
+\c@uniquename=\count176
+\c@refsection=\count177
+\c@refsegment=\count178
+\c@maxextratitle=\count179
+\c@maxextratitleyear=\count180
+\c@maxextradate=\count181
+\c@maxextraalpha=\count182
+\c@abbrvpenalty=\count183
+\c@highnamepenalty=\count184
+\c@lownamepenalty=\count185
+\c@maxparens=\count186
+\c@parenlevel=\count187
+\blx@tempcnta=\count188
+\blx@tempcntb=\count189
+\blx@tempcntc=\count190
+\blx@maxsection=\count191
+\blx@maxsegment@0=\count192
+\blx@notetype=\count193
+\blx@parenlevel@text=\count194
+\blx@parenlevel@foot=\count195
+\blx@sectionciteorder@0=\count196
+\labelnumberwidth=\skip78
+\labelalphawidth=\skip79
+\biblabelsep=\skip80
+\bibitemsep=\skip81
+\bibnamesep=\skip82
+\bibinitsep=\skip83
+\bibparsep=\skip84
+\bibhang=\skip85
+\blx@bcfin=\read1
+\blx@bcfout=\write4
+\c@mincomprange=\count197
+\c@maxcomprange=\count198
+\c@mincompwidth=\count199
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(/usr/local/share/miktex-texmf/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2018/04/02 v7.7 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count266
+\c@savedafterword=\count267
+\c@annotator=\count268
+\c@savedannotator=\count269
+\c@author=\count270
+\c@savedauthor=\count271
+\c@bookauthor=\count272
+\c@savedbookauthor=\count273
+\c@commentator=\count274
+\c@savedcommentator=\count275
+\c@editor=\count276
+\c@savededitor=\count277
+\c@editora=\count278
+\c@savededitora=\count279
+\c@editorb=\count280
+\c@savededitorb=\count281
+\c@editorc=\count282
+\c@savededitorc=\count283
+\c@foreword=\count284
+\c@savedforeword=\count285
+\c@holder=\count286
+\c@savedholder=\count287
+\c@introduction=\count288
+\c@savedintroduction=\count289
+\c@namea=\count290
+\c@savednamea=\count291
+\c@nameb=\count292
+\c@savednameb=\count293
+\c@namec=\count294
+\c@savednamec=\count295
+\c@translator=\count296
+\c@savedtranslator=\count297
+\c@shortauthor=\count298
+\c@savedshortauthor=\count299
+\c@shorteditor=\count300
+\c@savedshorteditor=\count301
+\c@with=\count302
+\c@savedwith=\count303
+\c@writer=\count304
+\c@savedwriter=\count305
+\c@producer=\count306
+\c@savedproducer=\count307
+\c@execproducer=\count308
+\c@savedexecproducer=\count309
+\c@director=\count310
+\c@saveddirector=\count311
+\c@labelname=\count312
+\c@savedlabelname=\count313
+\c@institution=\count314
+\c@savedinstitution=\count315
+\c@lista=\count316
+\c@savedlista=\count317
+\c@listb=\count318
+\c@savedlistb=\count319
+\c@listc=\count320
+\c@savedlistc=\count321
+\c@listd=\count322
+\c@savedlistd=\count323
+\c@liste=\count324
+\c@savedliste=\count325
+\c@listf=\count326
+\c@savedlistf=\count327
+\c@location=\count328
+\c@savedlocation=\count329
+\c@organization=\count330
+\c@savedorganization=\count331
+\c@origlocation=\count332
+\c@savedoriglocation=\count333
+\c@origpublisher=\count334
+\c@savedorigpublisher=\count335
+\c@publisher=\count336
+\c@savedpublisher=\count337
+\c@language=\count338
+\c@savedlanguage=\count339
+\c@origlanguage=\count340
+\c@savedoriglanguage=\count341
+\c@pageref=\count342
+\c@savedpageref=\count343
+\shorthandwidth=\skip86
+\shortjournalwidth=\skip87
+\shortserieswidth=\skip88
+\shorttitlewidth=\skip89
+\shortauthorwidth=\skip90
+\shorteditorwidth=\skip91
+\locallabelnumberwidth=\skip92
+\locallabelalphawidth=\skip93
+\localshorthandwidth=\skip94
+\localshortjournalwidth=\skip95
+\localshortserieswidth=\skip96
+\localshorttitlewidth=\skip97
+\localshortauthorwidth=\skip98
+\localshorteditorwidth=\skip99
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count344
+\c@textcitetotal=\count345
+\c@textcitemaxnames=\count346
+\c@biburlnumpenalty=\count347
+\c@biburlucpenalty=\count348
+\c@biburllcpenalty=\count349
+\c@smartand=\count350
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+
+(/usr/local/share/miktex-texmf/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2018/04/02 v7.7 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count351
+\c@bbx:relatedtotal=\count352
+))
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+
+(/usr/local/share/miktex-texmf/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2018/04/02 v7.7 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already 
+defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count353
+\float@exts=\toks37
+\float@box=\box37
+\@float@everytoks=\toks38
+\@floatcapt=\box38
+)
+(/usr/local/share/miktex-texmf/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip100
+\enit@outerparindent=\dimen155
+\enit@toks=\toks39
+\enit@inbox=\box39
+\enitdp@description=\count354
+)
+Package tocbasic Info: defining new hook before starting `lof' on input line 14
+0.
+Package tocbasic Info: defining new hook before starting `lot' on input line 14
+0.
+Package tocbasic Info: defining new hook after heading of `toc' on input line 1
+63.
+Package tocbasic Info: defining new hook after heading of `lof' on input line 1
+69.
+Package tocbasic Info: defining new hook after heading of `lot' on input line 1
+72.
+\glswrite=\write5
+\glo@main@file=\write6
+\openout6 = `WissenschaftlicheArbeit.glo'.
+
+Package glossaries Info: Writing glossary file WissenschaftlicheArbeit.glo on i
+nput line 209.
+\glo@acronym@file=\write7
+\openout7 = `WissenschaftlicheArbeit.acn'.
+
+Package glossaries Info: Writing glossary file WissenschaftlicheArbeit.acn on i
+nput line 209.
+
+(Abkuerzungen.tex)
+\@glsdotsep=\skip101
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'german'.
+Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
+Package biblatex Info: ... file 'german-apa.lbx' found.
+
+(/usr/local/share/miktex-texmf/tex/latex/biblatex-apa/german-apa.lbx
+File: german-apa.lbx 2018/04/02 v7.7 APA biblatex localisation
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+))
+(WissenschaftlicheArbeit.aux)
+\openout1 = `WissenschaftlicheArbeit.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 31.
+
+
+Package scrlayer-scrpage Warning: Very small head height detected!
+(scrlayer-scrpage)                Using scrlayer-scrpage the head height
+(scrlayer-scrpage)                should be at least \baselineskip, which is
+(scrlayer-scrpage)                16.49677pt currently.
+(scrlayer-scrpage)                But head height is currently 0.0pt only.
+(scrlayer-scrpage)                You may use
+(scrlayer-scrpage)                geometry option `head=16.49677pt'
+(scrlayer-scrpage)                \relax to avoid this warning.
+
+(/home/lorenz/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count355
+\scratchdimen=\dimen156
+\scratchbox=\box40
+\nofMPsegments=\count356
+\nofMParguments=\count357
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count358
+\MPscratchDim=\dimen157
+\MPnumerator=\count359
+\makeMPintoPDFobject=\count360
+\everyMPtoPDFconversion=\toks41
+) (/home/lorenz/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box41
+Package hyperref Info: Link coloring OFF on input line 31.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/home/lorenz/.miktex/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count361
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+
+(WissenschaftlicheArbeit.out) (WissenschaftlicheArbeit.out)
+\@outlinefile=\write8
+\openout8 = `WissenschaftlicheArbeit.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 423.94608pt, 59.75078pt)
+* v-part:(T,H,B)=(73.40811pt, 701.0759pt, 70.56284pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=423.94608pt
+* \textheight=701.0759pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-19.26189pt
+* \headheight=0.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=59.7508pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `WissenschaftlicheArbeit.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'WissenschaftlicheArbeit.bbl' found.
+(WissenschaftlicheArbeit.bbl)
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 14.24995pt on input line 40.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 42.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 47.
+
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 15.76895pt needed,
+(scrlayer-scrpage)                but only 0.0pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=15.76895pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 4
+7.
+
+
+Overfull \vbox (15.76895pt too high) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.54997pt on input line 47.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 47.
+
+[1
+
+\openout5 = `WissenschaftlicheArbeit.ist'.
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 18.04994pt on input line 47.
+
+Setting numwidth of `part' to \z@ 
+Setting indent of `part' to \z@
+Setting numwidth of `part' to \z@ 
+Setting indent of `part' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsubsection' to \z@ 
+Setting indent of `subsubsection' to \z@
+Setting numwidth of `subsubsection' to \z@ 
+Setting indent of `subsubsection' to \z@
+Setting numwidth of `paragraph' to \z@ 
+Setting indent of `paragraph' to \z@
+Setting numwidth of `paragraph' to \z@ 
+Setting indent of `paragraph' to \z@
+Setting numwidth of `subparagraph' to \z@ 
+Setting indent of `subparagraph' to \z@
+Setting numwidth of `subparagraph' to \z@ 
+Setting indent of `subparagraph' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+(WissenschaftlicheArbeit.toc
+
+Package tocbasic Warning: number width of chapter toc entries should be increas
+ed!
+(tocbasic)                Currently used number width = 5.78369pt,
+(tocbasic)                Wanted number separation    = 4.1609pt,
+(tocbasic)                Reserved number width       = 0.0pt on input line 6.
+
+)
+\tf@toc=\write9
+\openout9 = `WissenschaftlicheArbeit.toc'.
+
+ (Tex/Einleitung.tex
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 1.
+ [2
+
+]
+chapter 1.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 1.
+)
+
+LaTeX Warning: Empty bibliography on input line 52.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 53.
+[3
+
+]
+Setting numwidth of `part' to \z@ 
+Setting indent of `part' to \z@
+Setting numwidth of `part' to \z@ 
+Setting indent of `part' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsubsection' to \z@ 
+Setting indent of `subsubsection' to \z@
+Setting numwidth of `subsubsection' to \z@ 
+Setting indent of `subsubsection' to \z@
+Setting numwidth of `paragraph' to \z@ 
+Setting indent of `paragraph' to \z@
+Setting numwidth of `paragraph' to \z@ 
+Setting indent of `paragraph' to \z@
+Setting numwidth of `subparagraph' to \z@ 
+Setting indent of `subparagraph' to \z@
+Setting numwidth of `subparagraph' to \z@ 
+Setting indent of `subparagraph' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+(WissenschaftlicheArbeit.lof)
+\tf@lof=\write10
+\openout10 = `WissenschaftlicheArbeit.lof'.
+
+ (WissenschaftlicheArbeit.acr)
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 59.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 59.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 59.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 59.
+ [4
+
+
+]
+Setting numwidth of `part' to \z@ 
+Setting indent of `part' to \z@
+Setting numwidth of `part' to \z@ 
+Setting indent of `part' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsubsection' to \z@ 
+Setting indent of `subsubsection' to \z@
+Setting numwidth of `subsubsection' to \z@ 
+Setting indent of `subsubsection' to \z@
+Setting numwidth of `paragraph' to \z@ 
+Setting indent of `paragraph' to \z@
+Setting numwidth of `paragraph' to \z@ 
+Setting indent of `paragraph' to \z@
+Setting numwidth of `subparagraph' to \z@ 
+Setting indent of `subparagraph' to \z@
+Setting numwidth of `subparagraph' to \z@ 
+Setting indent of `subparagraph' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `chapter' to \z@ 
+Setting indent of `chapter' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `section' to \z@ 
+Setting indent of `section' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+Setting numwidth of `subsection' to \z@ 
+Setting indent of `subsection' to \z@
+(WissenschaftlicheArbeit.lot)
+\tf@lot=\write11
+\openout11 = `WissenschaftlicheArbeit.lot'.
+
+
+
+Package caption Warning: Unused \captionsetup[table] on input line 188.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: Unused \captionsetup[figure] on input line 199.
+See the caption package documentation for explanation.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 62.
+[5
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
+ (WissenschaftlicheArbeit.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
+Package rerunfilecheck Info: File `WissenschaftlicheArbeit.out' has not changed
+.
+(rerunfilecheck)             Checksum: 0F84D3138168E5E3E414FF6AD75DD4A9;45.
+Package logreq Info: Writing requests to 'WissenschaftlicheArbeit.run.xml'.
+\openout1 = `WissenschaftlicheArbeit.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
+ ) 
+Here is how much of TeX's memory you used:
+ 25324 strings out of 492996
+ 469628 string characters out of 3135476
+ 1123911 words of memory out of 3000000
+ 28816 multiletter control sequences out of 15000+200000
+ 26492 words of font info for 44 fonts, out of 3000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 58i,19n,96p,8960b,2407s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/helvetic/uhvro8a.pfb>
+Output written on WissenschaftlicheArbeit.pdf (5 pages, 35828 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+
