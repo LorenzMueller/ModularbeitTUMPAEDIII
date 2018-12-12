@@ -16,5 +16,35 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{kmk12}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3a87da75321d8c6bad383c5f664a5758}{%
+           family={Kultusministekonverenz},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bonn und Berlin: Carl Link}%
+      }
+      \strng{namehash}{3a87da75321d8c6bad383c5f664a5758}
+      \strng{fullhash}{3a87da75321d8c6bad383c5f664a5758}
+      \strng{bibnamehash}{3a87da75321d8c6bad383c5f664a5758}
+      \strng{authorbibnamehash}{3a87da75321d8c6bad383c5f664a5758}
+      \strng{authornamehash}{3a87da75321d8c6bad383c5f664a5758}
+      \strng{authorfullhash}{3a87da75321d8c6bad383c5f664a5758}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bildungsstandards im Fach Mathematik für die Allgemeine Hochschulreife}
+      \field{year}{2012}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

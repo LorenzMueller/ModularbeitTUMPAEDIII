@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.7.15)  11 DEC 2018 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.7.15)  12 DEC 2018 13:10
 entering extended mode
 **./WissenschaftlicheArbeit.tex
 (WissenschaftlicheArbeit.tex
@@ -1356,6 +1356,20 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
 ) (Tex/didaktischeAnalyse.tex
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 1.
@@ -1372,6 +1386,19 @@ Package babel Info: Redefining german shorthand "~
  [9
 
 ]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 1.
+ [10]
 chapter 8.
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 1.
@@ -1392,7 +1419,7 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 1.
- [10
+ [11
 
 ]
 chapter 9.
@@ -1415,7 +1442,7 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 1.
- [11
+ [12
 
 ]
 chapter 10.
@@ -1438,7 +1465,7 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 1.
- [12
+ [13
 
 ]
 chapter 11.
@@ -1449,9 +1476,21 @@ Package babel Info: Redefining german shorthand "|
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 1.
 )
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 56.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 56.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 56.
+ [14
 
-LaTeX Warning: Empty bibliography on input line 56.
-
+]
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 57.
 Package babel Info: Redefining german shorthand "|
@@ -1464,7 +1503,7 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 57.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 57.
-[13
+ [15
 
 ]
 Setting numwidth of `part' to \z@ 
@@ -1524,7 +1563,7 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 63.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 63.
- [14
+ [16
 
 
 ]
@@ -1594,7 +1633,7 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 66.
-[15
+[17
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
@@ -1603,26 +1642,26 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `WissenschaftlicheArbeit.out' has not changed
 .
-(rerunfilecheck)             Checksum: 468963291779BAF26C4FD939C7A8860C;869.
+(rerunfilecheck)             Checksum: CA267DA3F68C7FE09CED659DA88D346E;885.
 Package logreq Info: Writing requests to 'WissenschaftlicheArbeit.run.xml'.
 \openout1 = `WissenschaftlicheArbeit.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 25398 strings out of 492996
- 471629 string characters out of 3135476
- 1124922 words of memory out of 3000000
- 28840 multiletter control sequences out of 15000+200000
- 23476 words of font info for 42 fonts, out of 3000000 for 9000
+ 25612 strings out of 492996
+ 475822 string characters out of 3135476
+ 1125922 words of memory out of 3000000
+ 29046 multiletter control sequences out of 15000+200000
+ 26206 words of font info for 44 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  58i,19n,96p,8960b,2407s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on WissenschaftlicheArbeit.pdf (15 pages, 44832 bytes).
+Output written on WissenschaftlicheArbeit.pdf (17 pages, 53502 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 

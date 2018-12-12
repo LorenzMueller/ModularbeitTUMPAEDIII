@@ -11,7 +11,7 @@ WissenschaftlicheArbeit.pdf: WissenschaftlicheArbeit.tex \
 	biber WissenschaftlicheArbeit
 	makeglossaries WissenschaftlicheArbeit
 	miktex-pdflatex WissenschaftlicheArbeit.tex
-
+	xournal WissenschaftlicheArbeit.pdf
 clean:
 	rm -rf Ressourcen/*.aux Ressourcen/*.bbl Ressourcen/*.log Ressourcen/*.fls Ressourcen/*.blg
 	rm -rf *.acn *.acr *.alg *.aux *.bbl *.bcf *.blg *.dvi *.fdb_latexmk *.fls *.glg *.glo *.gls
@@ -19,3 +19,5 @@ clean:
 	rm -rf Deckblatt/*.log Deckblatt/*.aux
 
 .PHONY: clean
+
+ 

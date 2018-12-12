@@ -33,20 +33,20 @@
 \defcounter {refsection}{0}\relax 
 \vspace {-10pt}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Lernziele}{9}{chapter.7}
+\contentsline {chapter}{\numberline {7}Lernziele und Kompetenzen}{9}{chapter.7}
 \defcounter {refsection}{0}\relax 
 \vspace {-10pt}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Didaktische Analyse}{10}{chapter.8}
+\contentsline {chapter}{\numberline {8}Didaktische Analyse}{11}{chapter.8}
 \defcounter {refsection}{0}\relax 
 \vspace {-10pt}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Methodische Analyse}{11}{chapter.9}
+\contentsline {chapter}{\numberline {9}Methodische Analyse}{12}{chapter.9}
 \defcounter {refsection}{0}\relax 
 \vspace {-10pt}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Artikulationsschema}{12}{chapter.10}
+\contentsline {chapter}{\numberline {10}Artikulationsschema}{13}{chapter.10}
 \defcounter {refsection}{0}\relax 
 \vspace {-10pt}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Reflexion}{13}{chapter.11}
+\contentsline {chapter}{\numberline {11}Reflexion}{14}{chapter.11}
