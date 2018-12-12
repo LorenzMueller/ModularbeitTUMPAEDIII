@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{forster2004analysis}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8e53a8257ed07acdf13331b689a4e08}{%
+           family={Forster},
+           familyi={F\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f8e53a8257ed07acdf13331b689a4e08}
+      \strng{fullhash}{f8e53a8257ed07acdf13331b689a4e08}
+      \strng{bibnamehash}{f8e53a8257ed07acdf13331b689a4e08}
+      \strng{authorbibnamehash}{f8e53a8257ed07acdf13331b689a4e08}
+      \strng{authornamehash}{f8e53a8257ed07acdf13331b689a4e08}
+      \strng{authorfullhash}{f8e53a8257ed07acdf13331b689a4e08}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Analysis 1}
+      \field{year}{2004}
+    \endentry
     \entry{kmk12}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=3a87da75321d8c6bad383c5f664a5758}{%

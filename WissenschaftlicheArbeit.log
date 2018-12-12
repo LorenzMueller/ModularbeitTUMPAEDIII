@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.7.15)  12 DEC 2018 13:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.7.15)  12 DEC 2018 20:06
 entering extended mode
 **./WissenschaftlicheArbeit.tex
 (WissenschaftlicheArbeit.tex
@@ -912,6 +912,16 @@ nput line 209.
 (Abkuerzungen.tex)
 \@glsdotsep=\skip101
 )
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1114,11 +1124,22 @@ Setting numwidth of `subsection' to 19.66037pt
 Setting indent of `subsection' to \z@
 Setting numwidth of `subsection' to 19.66037pt
 Setting indent of `subsection' to \z@
-(WissenschaftlicheArbeit.toc)
+(WissenschaftlicheArbeit.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+(/home/lorenz/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write9
 \openout9 = `WissenschaftlicheArbeit.toc'.
 
- (Tex/formalia.tex
+
+(Tex/formalia.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 8.54997pt on input line 1.
 
@@ -1491,6 +1512,10 @@ Package babel Info: Redefining german shorthand "~
  [14
 
 ]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 56.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 56.
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 57.
 Package babel Info: Redefining german shorthand "|
@@ -1649,19 +1674,25 @@ Package logreq Info: Writing requests to 'WissenschaftlicheArbeit.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 25612 strings out of 492996
- 475822 string characters out of 3135476
- 1125922 words of memory out of 3000000
- 29046 multiletter control sequences out of 15000+200000
- 26206 words of font info for 44 fonts, out of 3000000 for 9000
+ 25931 strings out of 492996
+ 479553 string characters out of 3135476
+ 1127447 words of memory out of 3000000
+ 29333 multiletter control sequences out of 15000+200000
+ 31283 words of font info for 56 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  58i,19n,96p,8960b,2407s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on WissenschaftlicheArbeit.pdf (17 pages, 53502 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</home/lorenz/.mik
+tex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/lorenz/.mik
+tex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/lorenz/.mikt
+ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/lorenz/.mikt
+ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/lorenz/.mikte
+x/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvro8a.pfb>
+Output written on WissenschaftlicheArbeit.pdf (17 pages, 98650 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 

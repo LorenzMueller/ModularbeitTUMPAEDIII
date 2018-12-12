@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'WissenschaftlicheArbeit.blg'
-[24] biber:313> INFO - === Mi Dez 12, 2018, 13:10:59
-[43] Biber.pm:371> INFO - Reading 'WissenschaftlicheArbeit.bcf'
-[105] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[23] biber:313> INFO - === Mi Dez 12, 2018, 20:06:26
+[42] Biber.pm:371> INFO - Reading 'WissenschaftlicheArbeit.bcf'
+[105] Biber.pm:857> INFO - Found 2 citekeys in bib section 0
 [118] Biber.pm:3976> INFO - Processing section 0
 [127] Biber.pm:4136> INFO - Looking for bibtex format file 'Bib.bib' for section 0
 [128] bibtex.pm:1500> INFO - LaTeX decoding ...
-[130] bibtex.pm:1316> INFO - Found BibTeX data source 'Bib.bib'
-[142] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[142] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[143] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[143] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[144] bbl.pm:617> INFO - Writing 'WissenschaftlicheArbeit.bbl' with encoding 'UTF-8'
-[145] bbl.pm:720> INFO - Output to WissenschaftlicheArbeit.bbl
+[131] bibtex.pm:1316> INFO - Found BibTeX data source 'Bib.bib'
+[147] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[147] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[147] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[147] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[150] bbl.pm:617> INFO - Writing 'WissenschaftlicheArbeit.bbl' with encoding 'UTF-8'
+[151] bbl.pm:720> INFO - Output to WissenschaftlicheArbeit.bbl
