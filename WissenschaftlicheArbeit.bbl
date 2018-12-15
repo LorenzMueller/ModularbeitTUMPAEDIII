@@ -47,6 +47,33 @@
       \field{title}{Analysis 1}
       \field{year}{2004}
     \endentry
+    \entry{LehrplanGymnasium}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=19857b34a4cdd584317c3bad71c20d34}{%
+           family={ISB},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{19857b34a4cdd584317c3bad71c20d34}
+      \strng{fullhash}{19857b34a4cdd584317c3bad71c20d34}
+      \strng{bibnamehash}{19857b34a4cdd584317c3bad71c20d34}
+      \strng{authorbibnamehash}{19857b34a4cdd584317c3bad71c20d34}
+      \strng{authornamehash}{19857b34a4cdd584317c3bad71c20d34}
+      \strng{authorfullhash}{19857b34a4cdd584317c3bad71c20d34}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2018-08-23}
+      \field{title}{LehrplanPlus der 5. Klasse des Gymnasiums Bayern}
+      \verb{urlraw}
+      \verb https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/5/mathematik
+      \endverb
+      \verb{url}
+      \verb https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/5/mathematik
+      \endverb
+    \endentry
     \entry{kmk12}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=3a87da75321d8c6bad383c5f664a5758}{%

@@ -2126,7 +2126,8 @@
   <bcf:section number="0">
     <bcf:citekey order="1">forster2004analysis</bcf:citekey>
     <bcf:citekey order="2">forster2004analysis</bcf:citekey>
-    <bcf:citekey order="3">kmk12</bcf:citekey>
+    <bcf:citekey order="3">LehrplanGymnasium</bcf:citekey>
+    <bcf:citekey order="4">kmk12</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
