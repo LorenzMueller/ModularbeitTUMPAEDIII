@@ -1,0 +1,4 @@
+PWD /home/lorenz/projects/WS1819/TUM PAED III/Modularbeit/Tex
+INPUT /home/lorenz/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT artikulationsschema.tex
+OUTPUT artikulationsschema.log

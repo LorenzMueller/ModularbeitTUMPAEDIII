@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'WissenschaftlicheArbeit.blg'
-[28] biber:313> INFO - === Sa Dez 15, 2018, 10:03:37
-[49] Biber.pm:371> INFO - Reading 'WissenschaftlicheArbeit.bcf'
-[113] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
-[126] Biber.pm:3976> INFO - Processing section 0
-[135] Biber.pm:4136> INFO - Looking for bibtex format file 'Bib.bib' for section 0
-[136] bibtex.pm:1500> INFO - LaTeX decoding ...
-[140] bibtex.pm:1316> INFO - Found BibTeX data source 'Bib.bib'
-[160] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[160] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[160] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[160] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[167] bbl.pm:617> INFO - Writing 'WissenschaftlicheArbeit.bbl' with encoding 'UTF-8'
-[169] bbl.pm:720> INFO - Output to WissenschaftlicheArbeit.bbl
+[32] biber:313> INFO - === Fr Dez 28, 2018, 14:55:30
+[52] Biber.pm:371> INFO - Reading 'WissenschaftlicheArbeit.bcf'
+[117] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
+[129] Biber.pm:3976> INFO - Processing section 0
+[138] Biber.pm:4136> INFO - Looking for bibtex format file 'Bib.bib' for section 0
+[139] bibtex.pm:1500> INFO - LaTeX decoding ...
+[142] bibtex.pm:1316> INFO - Found BibTeX data source 'Bib.bib'
+[163] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[163] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[163] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[163] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[169] bbl.pm:617> INFO - Writing 'WissenschaftlicheArbeit.bbl' with encoding 'UTF-8'
+[172] bbl.pm:720> INFO - Output to WissenschaftlicheArbeit.bbl
